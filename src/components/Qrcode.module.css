@@ -1,0 +1,23 @@
+.panel {
+  background-color: #ffffff;
+  color: #22314a;
+  width: 300px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: x-large;
+}
+
+p {
+  color: #91939e;
+}
+
+.text {
+  padding: 5px;
+}
